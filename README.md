@@ -14,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working...
 - 🌱 I’m currently learning new skills.
 - 👯 I’m looking to collaborate 
 - ⚡ One of my hidden talents is negotiating with others.
