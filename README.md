@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working as a Software Programmer
 
-  -🌱 I’m currently learning new skills <TypeScript>
- -👯 I’m looking to collaborate 
--⚡ One of my hidden talents is negotiating with others
+  🌱 I’m currently learning new skills <TypeScript>
+ 
+  👯 I’m looking to collaborate 
+
+  ⚡ One of my hidden talents is negotiating with others
  -💬 Ask me about anything...
